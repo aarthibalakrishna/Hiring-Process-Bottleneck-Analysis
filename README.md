@@ -12,16 +12,16 @@ Offer Acceptance Rate: 84.0% (68 of 81 offers accepted).
 <h1>🛠️ Features</h1>
 <b>Dynamic Benchmark Settings</b>
 Users can adjust expected days for each recruitment stage using interactive sliders:
-<ul>Application → Screening: 5 days 
-Screening → Interview 1: 4 days 
-Interview 1 → Interview 2: 3 days 
-Interview 2 → Offer: 4 days 
-Offer → Joining: 14 days 
-</ul>
+<ul>Application → Screening: 5 days </ul>
+<ul>Screening → Interview 1: 4 days </ul>
+<ul>Interview 1 → Interview 2: 3 days </ul>
+<ul>Interview 2 → Offer: 4 days </ul>
+<ul>Offer → Joining: 14 days </ul>
+
 <b>Automated Bottleneck Detection</b>
 The app compares actual performance against user-defined benchmarks to flag critical delays:
-Primary Bottleneck Detected: Offer → Joining is averaging 20.6 days (6.6 days over the 14-day target).
-Secondary Bottleneck: Application → Screening is averaging 11.2 days (6.2 days over the 5-day target).
+<ul>Primary Bottleneck Detected: Offer → Joining is averaging 20.6 days (6.6 days over the 14-day target).</ul>
+<ul>Secondary Bottleneck: Application → Screening is averaging 11.2 days (6.2 days over the 5-day target).</ul>
 
 <b>Candidate Funnel Visualization</b>
 A Plotly-powered funnel chart tracks candidate drop-offs at every stage:
